@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Presentation:
-  https://docs.google.com/presentation/d/1J0TlPl0W44H6I8ceVdMb3r7qFjWG02QJ-FEie-IZ0FU/edit#slide=id.gc63aa58b20_0_49
+Presentation:   
+http://iboibelings.nl/BattleBitsWorkshop
 
-Wiki:
-  https://github.com/battlebitsworkshop/battlebitsworkshop/wiki
+Wiki:   
+https://github.com/battlebitsworkshop/battlebitsworkshop/wiki
   
-Assembly part one:  
+Assembly part one:   
 https://github.com/battlebitsworkshop/battlebitsworkshop/wiki/Assembly-part-one
 
 <!--
